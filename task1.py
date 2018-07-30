@@ -8,7 +8,7 @@ while (count < 10):
     
 print(ourList)
 
-#get list of rlrmrnts in ourList that are < 5
-b5 = [i for i in ourList if i < 5]
+#get list of numbers in ourList that are < 5
+belowFive = [i for i in ourList if i < 5]
 
-print(b5)
+print(belowFive)
